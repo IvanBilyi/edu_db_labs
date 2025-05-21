@@ -55,10 +55,6 @@ export default defineConfig({
             link: "/software/README",
           },
           {
-            text: "Реалізація об'єктно-реляційної системи",
-            link: "/implementation/implementation(group)",
-          },
-          {
             text: "Тестування працездатності системи",
             link: "/test/README",
           },
