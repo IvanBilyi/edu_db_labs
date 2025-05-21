@@ -55,6 +55,10 @@ export default defineConfig({
             link: "/software/README",
           },
           {
+            text: "Реалізація об'єктно-реляційної системи",
+            link: "/implementation/implementation(group)",
+          },
+          {
             text: "Тестування працездатності системи",
             link: "/test/README",
           },
@@ -67,7 +71,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/KyryloGomberg/edu_db_labs/" },
+      { icon: "github", link: "https://github.com/IvanBilyi/edu_db_labs/" },
     ],
   },
 
